@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\simse\\source\\repos\\Minimal.API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB9A22E-643C-4C10-8E8B-39E1782ED87E}|MinimalAPI.Starter\\Minimal.Api\\Minimal.Api.csproj|c:\\users\\simse\\source\\repos\\minimal.api\\minimalapi.starter\\minimal.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFB9A22E-643C-4C10-8E8B-39E1782ED87E}|MinimalAPI.Starter\\Minimal.Api\\Minimal.Api.csproj|solutionrelative:minimalapi.starter\\minimal.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\simse\\source\\repos\\Minimal.API\\MinimalAPI.Starter\\Minimal.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MinimalAPI.Starter\\Minimal.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\simse\\source\\repos\\Minimal.API\\MinimalAPI.Starter\\Minimal.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MinimalAPI.Starter\\Minimal.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T19:48:33.439Z",
+              "EditorCaption": ""
             }
           ]
         }
