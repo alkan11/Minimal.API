@@ -34,3 +34,4 @@ C:\Users\simse\source\repos\Minimal.API\MinimalAPI.Starter\Minimal.Api\obj\Debug
 C:\Users\simse\source\repos\Minimal.API\MinimalAPI.Starter\Minimal.Api\obj\Debug\net8.0\Minimal.Api.pdb
 C:\Users\simse\source\repos\Minimal.API\MinimalAPI.Starter\Minimal.Api\obj\Debug\net8.0\Minimal.Api.genruntimeconfig.cache
 C:\Users\simse\source\repos\Minimal.API\MinimalAPI.Starter\Minimal.Api\obj\Debug\net8.0\ref\Minimal.Api.dll
+C:\Users\simse\source\repos\Minimal.API\MinimalAPI.Starter\Minimal.Api\obj\Debug\net8.0\Minimal.Api.sourcelink.json
